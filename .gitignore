@@ -1,3 +1,5 @@
 node_modules
 .DS_Store
 .env
+/postman_collection.json
+/readme.md
